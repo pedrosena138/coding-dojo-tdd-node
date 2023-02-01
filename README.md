@@ -1,4 +1,4 @@
-# Coding Dojo Node
+# Coding Dojo TDD Node
 
 ## Requirements
 
@@ -19,5 +19,5 @@ Combining these two techniques and we have various interesting challenges to sol
 ## References
 
 - [Coding Dojo](https://codingdojo.org/)
-- [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)7
+- [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 - [Extreme Programming](https://en.wikipedia.org/wiki/Extreme_programming)
