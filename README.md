@@ -1,2 +1,2 @@
 # coding-dojo-node
-Conding dojo for node typescript
+Conding dojo for Node with typescript
