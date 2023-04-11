@@ -21,6 +21,9 @@ Combining these two techniques and we have various interesting challenges to sol
 
 ```npm run test -- {filename}```
 
+## Katas
+- [Pokedex](https://github.com/pedrosena138/coding-dojo-tdd-node/tree/main/pokedex)
+
 ## References
 
 - [Coding Dojo](https://codingdojo.org/)
